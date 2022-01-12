@@ -6,7 +6,6 @@ Full stack developer with a background in Civil Engineering, interested in build
 - 🔭 I’m currently working on improving my bootcamp product: GolfQueue.
 - 🌱 I’m currently learning react.js.
 - ⚡ Fun fact: My batchmates in my Le Wagon bootcamp calls me **Front End B!tch**.
-- 😄 Pronouns: THE Front End Bitch.
 - 📫 How to reach me: ukenster@gmail.com
 
 Oh ya, I love to golf too. 🏌️‍♀️⛳
