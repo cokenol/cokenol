@@ -3,7 +3,7 @@ Ken here.
 
 Full stack developer with a background in Civil Engineering, interested in building products that solve real problems.
 
-- 🔭 I’m currently working on improving my bootcamp product: GolfQueue.
+- 🔭 I’m currently working on improving my bootcamp product: GolfQueue. (https://golf-queue-club.herokuapp.com/)[https://golf-queue-club.herokuapp.com/]
 - 🌱 I’m currently learning react.js.
 - ⚡ Fun fact: My batchmates in Le Wagon bootcamp calls me **Front End B!tch**.
 - 📫 How to reach me: ukenster@gmail.com
