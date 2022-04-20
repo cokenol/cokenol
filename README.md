@@ -3,7 +3,7 @@ Ken here.
 
 Full stack developer with a background in Civil Engineering, interested in building products that solve real problems.
 
-- 🔭 I’m currently working on a [VideoPreviewer] (https://github.com/cokenol/VideoThumbnail-WPF) project on C#/.Net.
+- 🔭 I’m currently working on a [VideoPreviewer](https://github.com/cokenol/VideoThumbnail-WPF) project on C#/.Net.
 - 🚀 Recently finish a Udemy course on React.js
 - 🌱 I'm currently picking up C#/.NET
 - ⚡ Fun fact: My batchmates in Le Wagon bootcamp call me **Front End B!tch**.
